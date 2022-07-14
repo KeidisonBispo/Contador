@@ -1,5 +1,4 @@
 var numero = 0; 
-var verifica ;
 
 function Menos (){
     numero--
